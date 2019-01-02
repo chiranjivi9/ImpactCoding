@@ -2,7 +2,7 @@
 
 # Clone it
 ## In terminal
->git clone 
+>git clone https://github.com/chiranjivi9/ImpactCoding.git
 
 ## MacOS:
 # Run it through the terminal
