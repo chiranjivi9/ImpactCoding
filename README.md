@@ -11,3 +11,6 @@
 > javac filename.java
 > java filename
 ```
+
+### Note: 
+Please ignore the .class files.
